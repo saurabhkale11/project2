@@ -1,2 +1,2 @@
 # project2
-HTML CSS project for basic
+Sk dental care
